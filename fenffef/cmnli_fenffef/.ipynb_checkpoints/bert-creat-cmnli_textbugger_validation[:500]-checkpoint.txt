@@ -1,0 +1,9 @@
+Total Attacked Instances: 500
+Successful Instances: 23
+Attack Success Rate: 0.046
+Avg. Running Time: 3.685114592075348
+Total Query Exceeded: 0.0
+Avg. Victim Model Queries: 118.6
+Avg. Grammatical Errors: 0.0
+Avg. Levenshtein Edit Distance: 4.434782608695652
+Avg. Word Modif. Rate: 0.45157011816672776

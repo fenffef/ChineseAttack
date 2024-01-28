@@ -1,0 +1,6 @@
+Total Attacked Instances: 1000
+Successful Instances: 0
+Attack Success Rate: 0.0
+Avg. Running Time: 0.009847458600997925
+Total Query Exceeded: 0.0
+Avg. Victim Model Queries: 104.2

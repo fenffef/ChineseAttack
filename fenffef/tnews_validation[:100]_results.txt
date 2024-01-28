@@ -1,0 +1,9 @@
+Total Attacked Instances
+Successful Instances
+Attack Success Rate
+Avg. Running Time
+Total Query Exceeded
+Avg. Victim Model Queries
+Avg. Grammatical Errors
+Avg. Levenshtein Edit Distance
+Avg. Word Modif. Rate
